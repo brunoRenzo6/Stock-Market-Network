@@ -1,6 +1,7 @@
 # Stock-Market-Complex-Network
 Complex Network approach on how to understand Stock Market.<br>
 Each Color on the Network represents a Industry Sector (<font color='red'>Industrials</font>, Technology, Health, etc...)<br>
+- asdasd
 The main point is to trace a 1 to 1 stock correlation, and enable a Complex Stock Sector analysis.
 
 
